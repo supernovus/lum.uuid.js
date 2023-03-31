@@ -1,0 +1,19 @@
+{
+  "name": "@lumjs/uuid",
+  "version": "2.0.0",
+  "main": "lib/index.js",
+  "exports":
+  {
+    ".": "./lib/index.js",
+    "./fast": "./lib/fast.js",
+    "./compact": "./lib/compact.js",
+    "./chars": "./lib/chars.js",
+    "./package.json": "./package.json"
+  },
+  "license": "(MIT OR GPL-2.0-or-later)",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/supernovus/lum.uuid.js.git"
+  }
+}
