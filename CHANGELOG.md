@@ -13,7 +13,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Uses `let` and `const` instead of `var`.
 - Reformatted a bit.
 - Added jsdoc format documentation.
+- Added `math` sub-module for compatibility purposes.
 
 [Unreleased]: https://github.com/supernovus/lum.uuid.js/compare/v2.0.0...HEAD
 [2.0.0]: https://github.com/supernovus/lum.uuid.js/releases/tag/v2.0.0
-

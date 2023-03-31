@@ -12,7 +12,7 @@ into individual modules, so you can load only the specific one you want to use.
 | -------------------------------- | ---------------------------------------- |
 | `@lumjs/uuid`                    | The `Math.uuid()` function.              |
 | `@lumjs/uuid/fast`               | The `Math.uuidFast()` function.          |
-| `@lumjs/uuid/compact`            | The `Math.uuidCompact()` function.       | 
+| `@lumjs/uuid/compact`            | The `Math.uuidCompact()` function.       |
 
 ## Official URLs
 

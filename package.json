@@ -8,6 +8,7 @@
     "./fast": "./lib/fast.js",
     "./compact": "./lib/compact.js",
     "./chars": "./lib/chars.js",
+    "./math": "./lib/math.js",
     "./package.json": "./package.json"
   },
   "license": "(MIT OR GPL-2.0-or-later)",
